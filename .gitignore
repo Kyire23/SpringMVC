@@ -1,0 +1,6 @@
+# Project exclude paths
+/springmvc-001-test/target/
+/springmvc-002-datasubmit/target/
+/springmvc-003-ajax/target/
+/springmvc-004-webinf/target/
+/springmvc-005-ssm/target/
